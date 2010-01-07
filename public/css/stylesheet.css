@@ -21,6 +21,7 @@ body { font: normal 14px/16px "Myriad Pro", Arial, Helvetica, sans-serif; backgr
 
 #header { height:77px;  width:100%; float:left; background:#f0e8d4 url(../images/headerbg.jpg) repeat-x bottom; padding-top: 10px;}
 #header h1 { font:normal 36px/38px "Myriad Pro", Arial, Helvetica, sans-serif;margin-bottom:15px; padding-left: 50px;}
+#header h1 a {text-decoration: none; }
 .logo { background:url(../images/logobg.png) no-repeat; width:258px; height:105px; margin-left:26px; text-align:center; float:left;}
 .logo h1 { color:#FFF; font:normal 32px/25px "Myriad Pro", Arial, Helvetica, sans-serif; padding-top:45px; text-transform:uppercase;}
 .logo p  { color:#aaa780;}
@@ -36,6 +37,7 @@ body { font: normal 14px/16px "Myriad Pro", Arial, Helvetica, sans-serif; backgr
 .block1 , .block2 { float:left; margin-left:30px;} 
 .block1 {  width:518px;}
 .block1 h1 {  font:normal 36px/38px "Myriad Pro", Arial, Helvetica, sans-serif;margin-bottom:15px; text-align:center;}
+.block1 h1 a:hover {text-decoration: none; }
 .block1 p {  font:normal 24px/31px "Myriad Pro", Arial, Helvetica, sans-serif; }
 .block2 { width:390px; color:#FFF;}
 .block2 p {  font:normal 18px/25px "Myriad Pro", Arial, Helvetica, sans-serif; color:#4d300f; margin-top:15px; }
